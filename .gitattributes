@@ -1,2 +1,53 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <h1>Web development with AI</h1>
+    <h2>Web development with AI</h2>
+    <h3>Web development with AI</h3>
+    <h4>Web development with AI</h4>
+    <h5>Web development with AI</h5>
+    <h6>Web development with AI</h6>
+
+    <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit.</br>
+        Nesciunt officiis qui, accusantium necessitatibus quasi dignissimos facilis quidem velit repudiandae doloribus cupiditate sint consequatur dolor saepe assumenda enim vel laudantium quis. 
+    </p>
+    <br/>
+    <br/>
+    <br/>
+    <hr/>
+    <hr/>
+    <hr/>
+    <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam eum consequuntur repudiandae voluptates deserunt fugit recusandae sequi, quisquam, odio numquam minus doloremque quos dignissimos nulla ratione, inventore excepturi. Autem, molestias?
+    </p>
+
+    <!-- Semantic Markups -->
+    <!-- These are the tags that are used for styling and doesn't have direct impact on HTML structure
+    -->
+    <strong>I am Semantic</strong>
+    <br/>
+    <em>I am Semantic</em>
+
+    <!-- Small Quote -->
+    <q>BELIEVE YOU CAN AND YOU'RE HALFWAY THERE</q>
+
+    <!-- Longer Quote -->
+    <blockquote>
+      "The future belongs to those who believe in the beauty of their dreams." - 
+      Eleanor Roosevelt  
+    </blockquote>
+
+    <p>
+      <strong>Life</strong> is a <em>journey</em>,not a destination.It's the <em>progress</em> we make,the <em>lessons</em> we learn,and the <em>love</em> we share along the way that truly matter.<strong>Embracing</strong> each <em>moment</em> with gratitude,kindness,and compassion allows us <em>to grow</em>,<em>to learn</em>,and <em>to become the best version of ourselves</em>.<strong>So</strong>,<em>let's</em> we're <em>meant</em> to be.
+      <q>Smile,breathe,and go slowly.</q> - Thich Nhat Hanh 
+    </p>
+</body>
+</html>
